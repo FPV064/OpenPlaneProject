@@ -1,5 +1,5 @@
-<p align="center">
-  
+<p align="justify">
+ 
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=-ks4JAQizB8
 " target="_blank"><img src="http://img.youtube.com/vi/-ks4JAQizB8/0.jpg" 
 alt="Endurance flight" width="250" height="250" border="10" /></a>
