@@ -8,11 +8,11 @@ This project is all about designing and building affordable autonomous planes. I
 
 # Endurance flight video:
 <a>
-<center>
+
   href="http://www.youtube.com/watch?feature=player_embedded&v=-ks4JAQizB8
 " target="_blank"><img src="http://img.youtube.com/vi/-ks4JAQizB8/0.jpg"
 alt="Endurance flight" width="480" height="330" border="0" />
-</center>
+
 </a>
 
 
