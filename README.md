@@ -1,4 +1,4 @@
-<p align="justify">
+<p align="center">
   <img src="4.jpg" height="250" title="hover text">
   <img src="43.jpg" height="250" alt="accessibility text">
 </p>
