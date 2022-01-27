@@ -1,6 +1,6 @@
 <p align="center">
   <img src="4.jpg" width="350" title="hover text">
-  <img src="4.jpg" width="350" alt="accessibility text">
+  <img src="43.jpg" width="350" alt="accessibility text">
 </p>
 
 # OpenPlaneProject
