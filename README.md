@@ -1,2 +1,2 @@
 # OpenPlaneProject
-A project focused on the development of a compact, affordable and modular unmanned aerial system based on the EPP hand throwers. More info in the Wiki section here.
+This project is all about designing and building affordable autonomous planes. It aims to provide plans, files and detailed info about the build for free. While the open source software solutions for controlling UAVs are out there and easy to use, this project focuses on the mechanical part to get everyone a reliable platform for many use cases. You can find more information on Hackaday.io: https://github.com/FPV064/OpenPlaneProject
