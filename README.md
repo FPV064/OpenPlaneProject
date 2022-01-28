@@ -13,7 +13,6 @@ alt="Endurance flight" width="480" height="330" border="0" />
 </a>
 
 # Performance calculator:
-<html>
     <body>
         <form id="calculations-form" name="calculations" action="javascript:void(0);">
             <label for="units">Units:</label>
@@ -213,5 +212,4 @@ alt="Endurance flight" width="480" height="330" border="0" />
             }
         </style>
     </body>
-</html>
 
