@@ -11,7 +11,4 @@ This project is all about designing and building affordable autonomous planes. I
 " target="_blank"><img src="http://img.youtube.com/vi/-ks4JAQizB8/0.jpg"
 alt="Endurance flight" width="480" height="330" border="0" />
 </a>
-
-# Performance calculator:
-<iframe src="https://raw.githubusercontent.com/FPV064/OpenPlaneProject/main/Flight%20performance%20calculator.html" height="100%" width="100%">
     
